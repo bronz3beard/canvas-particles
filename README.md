@@ -6,7 +6,7 @@ This project was bootstrapped with [create-react-app](https://github.com/faceboo
 
 - __For__ Anyone looking to add a canvas display,
 - __who__ wants to add a dynamic animation to their page,
-- __the__ Canvas poarticle,
+- __the__ Canvas particle,
 - __is a__ is an animation showing particles of random sizes and colours.
 
 
