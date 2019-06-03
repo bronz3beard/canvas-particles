@@ -1,4 +1,24 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Canvas Particles
+
+### This document serves as a consolidation of some of the items that could be helpful to understand this project.
+
+This project was bootstrapped with [create-react-app](https://github.com/facebook/create-react-app).
+
+- __For__ Anyone looking to add a canvas display,
+- __who__ wants to add a dynamic animation to their page,
+- __the__ Canvas poarticle,
+- __is a__ is an animation showing particles of random sizes and colours.
+
+
+# Installation:
+
+# Demo:
+* a short demo for the current version of the [CANVAS-PARTICLES 0.1.0](https://codepen.io/roryfn/pen/MxKbWZ?editors=0010).
+
+# Collaborators:
+- @personA
+- @personB
+
 
 ## Available Scripts
 
