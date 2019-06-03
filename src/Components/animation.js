@@ -122,7 +122,6 @@ class Animation extends PureComponent {
                 particles[i].draw();
             }
         }, 150);
-        console.log(particleNumber, particles, x, y);
     }
     /*onMouseMove={this.props.handleMouseEvent} onMouseOut={this._onMouseOut} 
      * <div className="overlay">THIS IS OVER THE TOP OF THE CANVAS</div>*/
