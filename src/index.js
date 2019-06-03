@@ -4,6 +4,8 @@ import ReactDOM from 'react-dom';
 import CanvasContainer from './CanvasContainer';
 import * as serviceWorker from './serviceWorker';
 
+import "./Styles/canvas.css";
+
 ReactDOM.render(
     <CanvasContainer />, 
     document.getElementById("canvas")
