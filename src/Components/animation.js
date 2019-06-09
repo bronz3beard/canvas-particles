@@ -13,7 +13,7 @@ class Animation extends PureComponent {
     }
 
     particle = () => {
-        const { x, y } = this.props; //radius, opacity
+        //const { x, y } = this.props; //radius, opacity
         const canvas = this.canvasRef.current;
         const context = canvas.getContext('2d');
 
@@ -118,8 +118,8 @@ class Animation extends PureComponent {
                 new Particle();
             }
             context.globalCompositeOperation = "lighter";
-            for (var i in particles) {
-                particles[i].draw();
+            for (var x in particles) {
+                particles[x].draw();
             }
         }, 150);
     }
